@@ -1,6 +1,6 @@
-# neo-blessed
+# ultra-blessed
 
-A fork of the original blessed with bug fixes and maintenance.
+A fork of neo-blessed customized for server applications.
 
 A curses-like library with a high level terminal interface API for node.js.
 
